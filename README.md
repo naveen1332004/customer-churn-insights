@@ -1,4 +1,4 @@
-# customer-churn-insights
+# customer-churn-insights_Data Analytics Project
 Customer Churn Insights — customer-churn-insights Conducted SQL &amp; Python EDA, built Tableau/Power BI dashboards, and reduced churn prediction error by 20%
 
 # Customer Churn Insights
